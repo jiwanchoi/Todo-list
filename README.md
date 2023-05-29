@@ -1,7 +1,7 @@
 # Chrome todo-list Clone
 
 > 크롬 앱 todo-list 클론 프로젝트  
-> https://jiwanchoi.github.io/todo-list/
+> https://jiwanchoi.github.io/Todo-list/
 
 </br>
 
